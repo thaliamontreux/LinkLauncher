@@ -1,0 +1,26 @@
+Introducing LinkLauncher v1.0
+
+Released September 27, 2025
+
+Managing large numbers of servers and keeping track of the countless links, applications, and ports running across systems has become increasingly complex. Distributing those links to administrators, technicians, and staff—each with their own browser preferences, application choices, and workflows—can quickly turn into a tangled mess.
+
+LinkLauncher was created to solve this problem.
+Powered by a MariaDB backend, a secure PHP API, and a Windows client built with Python, LinkLauncher provides a centralized and secure way to manage and share links across your organization.
+
+With LinkLauncher, you no longer need to:
+
+Export links from browsers.
+
+Write login scripts for distribution.
+
+Email sensitive information to colleagues.
+
+Instead, everything is managed in-house and distributed only to the PCs and users who need it. Our token-based authentication system ensures your information stays private and secure.
+
+Looking ahead, we are planning a web-based administration interface, which will further streamline management and give administrators even more control.
+
+This marks our first official release (v1.0), and we’re excited to share it with the community.
+
+We welcome your feedback, feature requests, and suggestions for the future direction of this project.
+
+Thank you for your support!
